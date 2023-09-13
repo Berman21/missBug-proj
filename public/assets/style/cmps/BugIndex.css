@@ -1,0 +1,12 @@
+.bug-index.action-btns {
+  gap: 1rem;
+}
+
+.bug-preview h4 {
+  text-transform: capitalize;
+  color: black;
+}
+
+.bug-preview img {
+  max-width: 100px;
+}
